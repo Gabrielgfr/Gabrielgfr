@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Rodrigues👋
 <!-- <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+sou+o+Gabriel!;" />
-</h1> -->
+</h1> #caso eu queira que meu nome seja animado-->
 
 <div align="center">
 <table>
@@ -41,4 +41,7 @@
   <a href="https://www.linkedin.com/in/gabriel-ferreira-roodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielgfr&color=orange" alt="Profile views" /> </p>
 <!-- ![snake gif](https://github.com/Gabrielgfr/Gabrielgfr/blob/output/github-contribution-grid-snake.svg) -->
