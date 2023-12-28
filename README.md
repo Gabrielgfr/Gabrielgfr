@@ -1,9 +1,18 @@
 ## Olá! Eu sou o Gabriel Rodrigues🖐️
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielgfr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgfr&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielgfr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgfr&layout=compact&langs_count=16&theme=great-gatsby"/>
+    </td>
+  </tr>
+</table>
 </div>
+
+
 <br>
 
 <div align="center">
