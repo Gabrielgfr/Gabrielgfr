@@ -9,6 +9,8 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  </div>
+  <div style="display: inline_block">
     <h1 align="center">Tecnologias que eu uso no meu dia</h1>
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,4 +28,4 @@
   <a href="https://www.linkedin.com/in/gabriel-ferreira-roodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gabrielgfr/Gabrielgfr/blob/output/github-contribution-grid-snake.svg)
