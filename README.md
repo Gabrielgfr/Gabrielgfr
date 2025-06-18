@@ -3,6 +3,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+sou+o+Gabriel!;" />
 </h1> #caso eu queira que meu nome seja animado-->
 
+<td>
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrielgfr&include_all_commits=true&count_private=true&theme=great-gatsby)
+</td>
+
+
 <div align="center">
 <table>
   <tr>
