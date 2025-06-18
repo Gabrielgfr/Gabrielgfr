@@ -1,9 +1,13 @@
 # Olá! Eu sou o Gabriel Rodrigues👋
+<!-- <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+sou+o+Gabriel!;" />
+</h1> #caso eu queira que meu nome seja animado-->
+
 <div align="center">
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielgfr&include_all_commits=true&count_private=true&theme=great-gatsby/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielgfr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgfr&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -30,13 +34,14 @@
   </div>
 </div>
 
-<div align="center">
+<div align="center">   
   <h1 align="center">Redes Sociais</h1>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-roodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-roodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielgfr&color=orange" alt="Profile views" /> </p>
+<!-- ![snake gif](https://github.com/Gabrielgfr/Gabrielgfr/blob/output/github-contribution-grid-snake.svg) -->
