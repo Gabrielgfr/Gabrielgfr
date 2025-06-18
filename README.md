@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielgfr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://gabrielgfr-github-readme-stats.vercel.app/api?username=Gabrielgfr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgfr&layout=compact&langs_count=16&theme=great-gatsby"/>
